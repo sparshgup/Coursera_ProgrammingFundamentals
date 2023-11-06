@@ -1,0 +1,3 @@
+/Users/sparshg/Desktop/c course/cmake-build-debug/CMakeFiles/main.dir
+/Users/sparshg/Desktop/c course/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sparshg/Desktop/c course/cmake-build-debug/CMakeFiles/rebuild_cache.dir
